@@ -112,7 +112,7 @@ A React-based platform designed to help developers structure and practice for co
 
 </details>
 
-> 💡 Add live-demo and repo links to each project once deployed — happy to wire up "Live Demo" / "Source" badges under each one.
+
 
 <br/>
 
