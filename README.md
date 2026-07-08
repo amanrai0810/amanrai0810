@@ -122,6 +122,7 @@ A React-based platform designed to help developers structure and practice for co
 
 <img width="100%" src="https://ghchart.rshah.org/8E2DE2/amanrai0810" alt="Aman's GitHub contribution chart"/>
 
+
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanrai0810&theme=react-dark&hide_border=true&bg_color=0D1117&color=8E2DE2&line=A855F7&point=ffffff&area=true&area_color=6A11CB"/>
@@ -130,32 +131,20 @@ A React-based platform designed to help developers structure and practice for co
 
 <br/>
 
+
+
 ## 📊 Stats & Trophies
-
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=amanrai0810&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8E2DE2&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanrai0810&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9"/>
-
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=amanrai0810&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8E2DE2&text_color=c9d1d9"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=amanrai0810&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9"/>
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=amanrai0810&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=A855F7&currStreakLabel=A855F7"/>
 
-<br/>
+## 🐍 Contribution Snake 
+![snake](https://raw.githubusercontent.com/amanrai0810/amanrai0810/output/github-contribution-grid-snake-dark.svg)
 
-<img src="https://github-profile-trophy.vercel.app/?username=amanrai0810&theme=radical&no-frame=true&row=1&column=7&margin-w=8"/>
 
-</div>
 
-<br/>
-
-## 🐍 Bonus: Contribution Snake (optional)
-
-<div align="center">
-
-A "snake" that eats your contribution graph — a popular advanced touch on top profiles. It needs a small one-time GitHub Actions setup in your own repo since it renders a fresh SVG on a schedule; I've included a ready-to-use workflow file (`snake.yml`) for this.
-
-</div>
 
 <br/>
 
