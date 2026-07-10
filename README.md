@@ -25,7 +25,23 @@ $ whoami
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="a random dev quote"/>
+<div align="center">
+
+<table>
+<tr>
+<td width="90%">
+
+### 💭 My Thought
+
+*"I believe every bug has two solutions: one in the code, and one in the developer."*
+
+<p align="right"><b>— Aman Rai</b></p>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 </div>
 
